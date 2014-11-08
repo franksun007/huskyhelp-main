@@ -22,3 +22,7 @@ Website for UW Huskyhelp Org.
 
 ### 11/04/2014
 - added/updated several photos
+
+### 11/07/2014
+- Combined the photo section with the info section
+- Shrink the intro section
